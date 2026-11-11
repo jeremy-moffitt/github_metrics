@@ -1,0 +1,13 @@
+{
+  "github_token": null,
+  "repositories": [
+    {
+      "url": "https://github.com/owner/repository",
+      "token": null
+    },
+    {
+      "url": "https://github.com/another-owner/private-repository",
+      "token": "replace-with-a-repository-specific-token"
+    }
+  ]
+}
